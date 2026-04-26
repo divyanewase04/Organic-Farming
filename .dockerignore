@@ -1,0 +1,10 @@
+.git
+.gitignore
+.vscode
+.idea
+node_modules
+tmp_*
+*.log
+*.err
+*.pid
+*.bak
